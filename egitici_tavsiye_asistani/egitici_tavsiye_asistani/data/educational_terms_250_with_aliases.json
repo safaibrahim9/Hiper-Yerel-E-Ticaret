@@ -1,0 +1,1819 @@
+[
+  {
+    "term": "IPS ekran",
+    "aliases": [
+      "In-Plane Switching",
+      "geniş görüş açılı ekran"
+    ],
+    "category": "Ekran",
+    "definition": "Geniş görüş açısı ve renk doğruluğu sunan ekran teknolojisidir.",
+    "example": "Bu ürün IPS ekran özelliği ile öne çıkar."
+  },
+  {
+    "term": "OLED ekran",
+    "aliases": [
+      "AMOLED",
+      "organik LED",
+      "OLED display"
+    ],
+    "category": "Ekran",
+    "definition": "Her pikselin kendinden ışık yaydığı, kontrastı yüksek ekran türüdür.",
+    "example": "Bu ürün OLED ekran özelliği ile öne çıkar."
+  },
+  {
+    "term": "AMOLED",
+    "aliases": [],
+    "category": "Ekran",
+    "definition": "OLED ekranların geliştirilmiş versiyonu, enerji tasarrufludur.",
+    "example": "Bu ürün AMOLED özelliği ile öne çıkar."
+  },
+  {
+    "term": "Retina ekran",
+    "aliases": [],
+    "category": "Ekran",
+    "definition": "Apple’ın yüksek çözünürlüklü ekran teknolojisi.",
+    "example": "Bu ürün Retina ekran özelliği ile öne çıkar."
+  },
+  {
+    "term": "120Hz ekran",
+    "aliases": [
+      "yüksek yenileme hızı",
+      "akıcı ekran",
+      "120Hz panel"
+    ],
+    "category": "Ekran",
+    "definition": "Daha akıcı görüntü için saniyede 120 kare yenileme hızı sağlar.",
+    "example": "Bu ürün 120Hz ekran özelliği ile öne çıkar."
+  },
+  {
+    "term": "Dokunmatik ekran",
+    "aliases": [],
+    "category": "Ekran",
+    "definition": "Kullanıcının parmak hareketleriyle kontrol edilebilen ekran.",
+    "example": "Bu ürün Dokunmatik ekran özelliği ile öne çıkar."
+  },
+  {
+    "term": "Parlama önleyici ekran",
+    "aliases": [],
+    "category": "Ekran",
+    "definition": "Yansımayı azaltarak açık havada kullanım kolaylığı sağlar.",
+    "example": "Bu ürün Parlama önleyici ekran özelliği ile öne çıkar."
+  },
+  {
+    "term": "SSD",
+    "aliases": [
+      "Solid State Drive",
+      "katı hal diski",
+      "hızlı disk"
+    ],
+    "category": "Depolama",
+    "definition": "Hareketli parça içermeyen hızlı veri depolama birimi.",
+    "example": "Bu ürün SSD özelliği ile öne çıkar."
+  },
+  {
+    "term": "HDD",
+    "aliases": [
+      "sabit disk",
+      "hard disk",
+      "mekanik disk"
+    ],
+    "category": "Depolama",
+    "definition": "Mekanik yapılı, daha ucuz ancak yavaş depolama teknolojisi.",
+    "example": "Bu ürün HDD özelliği ile öne çıkar."
+  },
+  {
+    "term": "M.2 NVMe",
+    "aliases": [
+      "NVMe SSD",
+      "yüksek hızlı SSD"
+    ],
+    "category": "Depolama",
+    "definition": "Yüksek hızlı yeni nesil SSD türü.",
+    "example": "Bu ürün M.2 NVMe özelliği ile öne çıkar."
+  },
+  {
+    "term": "eMMC",
+    "aliases": [
+      "gömülü bellek",
+      "mobil bellek"
+    ],
+    "category": "Depolama",
+    "definition": "Mobil cihazlarda kullanılan uygun maliyetli depolama çözümüdür.",
+    "example": "Bu ürün eMMC özelliği ile öne çıkar."
+  },
+  {
+    "term": "UFS",
+    "aliases": [
+      "hızlı mobil depolama",
+      "universal flash storage"
+    ],
+    "category": "Depolama",
+    "definition": "eMMC’ye göre daha hızlı veri aktarımı sağlayan depolama birimidir.",
+    "example": "Bu ürün UFS özelliği ile öne çıkar."
+  },
+  {
+    "term": "USB-C",
+    "aliases": [
+      "Type-C",
+      "USB Type-C",
+      "çift taraflı USB"
+    ],
+    "category": "Bağlantı",
+    "definition": "Çift taraflı kullanılabilen, yüksek hızlı bağlantı portudur.",
+    "example": "Bu ürün USB-C özelliği ile öne çıkar."
+  },
+  {
+    "term": "USB 3.0",
+    "aliases": [
+      "hızlı usb",
+      "mavi usb"
+    ],
+    "category": "Bağlantı",
+    "definition": "Eski USB’ye göre daha hızlı veri aktarımı sağlar.",
+    "example": "Bu ürün USB 3.0 özelliği ile öne çıkar."
+  },
+  {
+    "term": "Thunderbolt",
+    "aliases": [
+      "yüksek hızlı port",
+      "intel thunderbolt"
+    ],
+    "category": "Bağlantı",
+    "definition": "Yüksek hızlı veri ve video aktarımı sağlayan bağlantı teknolojisidir.",
+    "example": "Bu ürün Thunderbolt özelliği ile öne çıkar."
+  },
+  {
+    "term": "HDMI",
+    "aliases": [
+      "görüntü kablosu",
+      "hdmi portu"
+    ],
+    "category": "Bağlantı",
+    "definition": "Görüntü ve ses aktarımında kullanılan dijital bağlantı portu.",
+    "example": "Bu ürün HDMI özelliği ile öne çıkar."
+  },
+  {
+    "term": "Ethernet",
+    "aliases": [],
+    "category": "Bağlantı",
+    "definition": "Kablolu internet bağlantı türüdür.",
+    "example": "Bu ürün Ethernet özelliği ile öne çıkar."
+  },
+  {
+    "term": "NFC",
+    "aliases": [],
+    "category": "Bağlantı",
+    "definition": "Yakın alan iletişimi ile temassız veri aktarımı sağlar.",
+    "example": "Bu ürün NFC özelliği ile öne çıkar."
+  },
+  {
+    "term": "Bluetooth 5.0",
+    "aliases": [
+      "kablosuz bağlantı",
+      "Bluetooth teknolojisi"
+    ],
+    "category": "Bağlantı",
+    "definition": "Geliştirilmiş menzil ve hız sağlayan kablosuz bağlantı standardı.",
+    "example": "Bu ürün Bluetooth 5.0 özelliği ile öne çıkar."
+  },
+  {
+    "term": "Hızlı Şarj",
+    "aliases": [
+      "Quick Charge",
+      "Fast Charging",
+      "çabuk şarj",
+      "hızlı dolum"
+    ],
+    "category": "Şarj",
+    "definition": "Kısa sürede yüksek enerji aktarımı sağlar.",
+    "example": "Bu ürün Hızlı Şarj özelliği ile öne çıkar."
+  },
+  {
+    "term": "Kablosuz şarj",
+    "aliases": [],
+    "category": "Şarj",
+    "definition": "Cihazların kablo olmadan şarj edilmesini sağlar.",
+    "example": "Bu ürün Kablosuz şarj özelliği ile öne çıkar."
+  },
+  {
+    "term": "USB Power Delivery",
+    "aliases": [],
+    "category": "Şarj",
+    "definition": "USB üzerinden yüksek güçlü şarj imkanı sunar.",
+    "example": "Bu ürün USB Power Delivery özelliği ile öne çıkar."
+  },
+  {
+    "term": "Quick Charge",
+    "aliases": [],
+    "category": "Şarj",
+    "definition": "Qualcomm’un hızlı şarj teknolojisidir.",
+    "example": "Bu ürün Quick Charge özelliği ile öne çıkar."
+  },
+  {
+    "term": "Parmak izi okuyucu",
+    "aliases": [
+      "Touch ID",
+      "biyometrik kimlik"
+    ],
+    "category": "Güvenlik",
+    "definition": "Cihazı parmak iziyle güvenli şekilde açmayı sağlar.",
+    "example": "Bu ürün Parmak izi okuyucu özelliği ile öne çıkar."
+  },
+  {
+    "term": "Yüz tanıma",
+    "aliases": [
+      "Face ID",
+      "biyometrik yüz tanıma"
+    ],
+    "category": "Güvenlik",
+    "definition": "Cihazı kullanıcının yüzüyle kilit açma yöntemi.",
+    "example": "Bu ürün Yüz tanıma özelliği ile öne çıkar."
+  },
+  {
+    "term": "Şifreleme",
+    "aliases": [],
+    "category": "Güvenlik",
+    "definition": "Verilerin korunması için dijital kilitleme yöntemi.",
+    "example": "Bu ürün Şifreleme özelliği ile öne çıkar."
+  },
+  {
+    "term": "TPM",
+    "aliases": [],
+    "category": "Güvenlik",
+    "definition": "Gelişmiş donanımsal güvenlik sağlayan modüldür.",
+    "example": "Bu ürün TPM özelliği ile öne çıkar."
+  },
+  {
+    "term": "Gürültü engelleme",
+    "aliases": [
+      "Noise cancelling",
+      "ANC",
+      "gürültü azaltma",
+      "aktif ses engelleme"
+    ],
+    "category": "Ses",
+    "definition": "Dış sesleri azaltarak daha net dinleme sağlar.",
+    "example": "Bu ürün Gürültü engelleme özelliği ile öne çıkar."
+  },
+  {
+    "term": "Dolby Atmos",
+    "aliases": [
+      "sinema ses sistemi",
+      "3D ses"
+    ],
+    "category": "Ses",
+    "definition": "Çok yönlü sinematik ses teknolojisi.",
+    "example": "Bu ürün Dolby Atmos özelliği ile öne çıkar."
+  },
+  {
+    "term": "Bass Boost",
+    "aliases": [],
+    "category": "Ses",
+    "definition": "Düşük frekans sesleri vurgulayan ses teknolojisi.",
+    "example": "Bu ürün Bass Boost özelliği ile öne çıkar."
+  },
+  {
+    "term": "Hi-Res Audio",
+    "aliases": [],
+    "category": "Ses",
+    "definition": "Yüksek çözünürlüklü ses formatıdır.",
+    "example": "Bu ürün Hi-Res Audio özelliği ile öne çıkar."
+  },
+  {
+    "term": "Çekirdek sayısı",
+    "aliases": [],
+    "category": "İşlemci",
+    "definition": "İşlemcinin aynı anda kaç işlem yapabildiğini belirler.",
+    "example": "Bu ürün Çekirdek sayısı özelliği ile öne çıkar."
+  },
+  {
+    "term": "Saat hızı",
+    "aliases": [],
+    "category": "İşlemci",
+    "definition": "İşlemcinin çalışma frekansını ifade eder.",
+    "example": "Bu ürün Saat hızı özelliği ile öne çıkar."
+  },
+  {
+    "term": "Turbo Boost",
+    "aliases": [],
+    "category": "İşlemci",
+    "definition": "Geçici olarak işlemcinin saat hızını artırır.",
+    "example": "Bu ürün Turbo Boost özelliği ile öne çıkar."
+  },
+  {
+    "term": "Cache Bellek",
+    "aliases": [],
+    "category": "İşlemci",
+    "definition": "İşlemciye en yakın geçici bellek alanıdır.",
+    "example": "Bu ürün Cache Bellek özelliği ile öne çıkar."
+  },
+  {
+    "term": "Wi-Fi 6",
+    "aliases": [
+      "802.11ax",
+      "hızlı Wi-Fi",
+      "yeni nesil Wi-Fi"
+    ],
+    "category": "Kablosuz",
+    "definition": "Yeni nesil hızlı ve stabil kablosuz bağlantı standardıdır.",
+    "example": "Bu ürün Wi-Fi 6 özelliği ile öne çıkar."
+  },
+  {
+    "term": "Wi-Fi 5",
+    "aliases": [],
+    "category": "Kablosuz",
+    "definition": "802.11ac olarak bilinen önceki nesil Wi-Fi teknolojisidir.",
+    "example": "Bu ürün Wi-Fi 5 özelliği ile öne çıkar."
+  },
+  {
+    "term": "Dual-band Wi-Fi",
+    "aliases": [],
+    "category": "Kablosuz",
+    "definition": "2.4GHz ve 5GHz frekanslarında aynı anda çalışabilir.",
+    "example": "Bu ürün Dual-band Wi-Fi özelliği ile öne çıkar."
+  },
+  {
+    "term": "Hotspot",
+    "aliases": [],
+    "category": "Kablosuz",
+    "definition": "Mobil interneti paylaşma özelliğidir.",
+    "example": "Bu ürün Hotspot özelliği ile öne çıkar."
+  },
+  {
+    "term": "mAh",
+    "aliases": [],
+    "category": "Pil",
+    "definition": "Pil kapasitesinin ölçüm birimidir.",
+    "example": "Bu ürün mAh özelliği ile öne çıkar."
+  },
+  {
+    "term": "Pil sağlığı",
+    "aliases": [],
+    "category": "Pil",
+    "definition": "Pil ömrünün ne kadar verimli kaldığını gösterir.",
+    "example": "Bu ürün Pil sağlığı özelliği ile öne çıkar."
+  },
+  {
+    "term": "Bekleme süresi",
+    "aliases": [],
+    "category": "Pil",
+    "definition": "Kullanılmadan ne kadar süre çalışabileceğini gösterir.",
+    "example": "Bu ürün Bekleme süresi özelliği ile öne çıkar."
+  },
+  {
+    "term": "Hızlı dolum",
+    "aliases": [],
+    "category": "Pil",
+    "definition": "Kısa sürede pilin önemli kısmını şarj eder.",
+    "example": "Bu ürün Hızlı dolum özelliği ile öne çıkar."
+  },
+  {
+    "term": "Teknik Özellik 44",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 44 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 44 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 45",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 45 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 45 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 46",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 46 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 46 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 47",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 47 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 47 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 48",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 48 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 48 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 49",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 49 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 49 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 50",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 50 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 50 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 51",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 51 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 51 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 52",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 52 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 52 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 53",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 53 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 53 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 54",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 54 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 54 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 55",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 55 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 55 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 56",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 56 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 56 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 57",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 57 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 57 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 58",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 58 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 58 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 59",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 59 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 59 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 60",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 60 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 60 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 61",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 61 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 61 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 62",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 62 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 62 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 63",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 63 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 63 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 64",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 64 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 64 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 65",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 65 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 65 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 66",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 66 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 66 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 67",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 67 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 67 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 68",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 68 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 68 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 69",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 69 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 69 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 70",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 70 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 70 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 71",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 71 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 71 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 72",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 72 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 72 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 73",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 73 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 73 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 74",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 74 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 74 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 75",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 75 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 75 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 76",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 76 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 76 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 77",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 77 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 77 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 78",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 78 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 78 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 79",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 79 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 79 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 80",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 80 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 80 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 81",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 81 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 81 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 82",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 82 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 82 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 83",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 83 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 83 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 84",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 84 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 84 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 85",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 85 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 85 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 86",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 86 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 86 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 87",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 87 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 87 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 88",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 88 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 88 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 89",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 89 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 89 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 90",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 90 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 90 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 91",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 91 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 91 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 92",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 92 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 92 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 93",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 93 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 93 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 94",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 94 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 94 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 95",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 95 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 95 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 96",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 96 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 96 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 97",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 97 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 97 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 98",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 98 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 98 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 99",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 99 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 99 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 100",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 100 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 100 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 101",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 101 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 101 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 102",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 102 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 102 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 103",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 103 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 103 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 104",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 104 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 104 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 105",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 105 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 105 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 106",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 106 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 106 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 107",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 107 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 107 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 108",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 108 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 108 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 109",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 109 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 109 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 110",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 110 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 110 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 111",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 111 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 111 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 112",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 112 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 112 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 113",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 113 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 113 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 114",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 114 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 114 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 115",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 115 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 115 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 116",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 116 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 116 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 117",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 117 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 117 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 118",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 118 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 118 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 119",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 119 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 119 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 120",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 120 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 120 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 121",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 121 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 121 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 122",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 122 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 122 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 123",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 123 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 123 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 124",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 124 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 124 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 125",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 125 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 125 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 126",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 126 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 126 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 127",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 127 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 127 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 128",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 128 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 128 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 129",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 129 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 129 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 130",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 130 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 130 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 131",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 131 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 131 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 132",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 132 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 132 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 133",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 133 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 133 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 134",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 134 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 134 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 135",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 135 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 135 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 136",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 136 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 136 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 137",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 137 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 137 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 138",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 138 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 138 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 139",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 139 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 139 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 140",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 140 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 140 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 141",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 141 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 141 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 142",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 142 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 142 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 143",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 143 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 143 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 144",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 144 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 144 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 145",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 145 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 145 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 146",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 146 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 146 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 147",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 147 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 147 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 148",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 148 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 148 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 149",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 149 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 149 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 150",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 150 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 150 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 151",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 151 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 151 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 152",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 152 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 152 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 153",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 153 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 153 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 154",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 154 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 154 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 155",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 155 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 155 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 156",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 156 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 156 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 157",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 157 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 157 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 158",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 158 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 158 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 159",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 159 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 159 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 160",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 160 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 160 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 161",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 161 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 161 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 162",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 162 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 162 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 163",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 163 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 163 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 164",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 164 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 164 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 165",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 165 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 165 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 166",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 166 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 166 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 167",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 167 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 167 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 168",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 168 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 168 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 169",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 169 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 169 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 170",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 170 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 170 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 171",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 171 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 171 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 172",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 172 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 172 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 173",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 173 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 173 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 174",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 174 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 174 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 175",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 175 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 175 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 176",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 176 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 176 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 177",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 177 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 177 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 178",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 178 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 178 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 179",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 179 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 179 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 180",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 180 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 180 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 181",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 181 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 181 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 182",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 182 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 182 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 183",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 183 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 183 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 184",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 184 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 184 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 185",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 185 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 185 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 186",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 186 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 186 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 187",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 187 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 187 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 188",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 188 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 188 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 189",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 189 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 189 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 190",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 190 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 190 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 191",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 191 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 191 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 192",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 192 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 192 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 193",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 193 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 193 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 194",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 194 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 194 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 195",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 195 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 195 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 196",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 196 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 196 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 197",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 197 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 197 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 198",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 198 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 198 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 199",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 199 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 199 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 200",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 200 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 200 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 201",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 201 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 201 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 202",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 202 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 202 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 203",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 203 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 203 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 204",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 204 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 204 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 205",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 205 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 205 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 206",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 206 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 206 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 207",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 207 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 207 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 208",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 208 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 208 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 209",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 209 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 209 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 210",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 210 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 210 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 211",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 211 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 211 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 212",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 212 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 212 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 213",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 213 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 213 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 214",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 214 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 214 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 215",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 215 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 215 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 216",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 216 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 216 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 217",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 217 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 217 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 218",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 218 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 218 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 219",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 219 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 219 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 220",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 220 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 220 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 221",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 221 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 221 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 222",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 222 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 222 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 223",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 223 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 223 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 224",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 224 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 224 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 225",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 225 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 225 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 226",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 226 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 226 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 227",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 227 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 227 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 228",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 228 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 228 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 229",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 229 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 229 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 230",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 230 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 230 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 231",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 231 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 231 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 232",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 232 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 232 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 233",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 233 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 233 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 234",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 234 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 234 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 235",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 235 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 235 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 236",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 236 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 236 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 237",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 237 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 237 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 238",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 238 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 238 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 239",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 239 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 239 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 240",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 240 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 240 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 241",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 241 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 241 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 242",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 242 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 242 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 243",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 243 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 243 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 244",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 244 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 244 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 245",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 245 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 245 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 246",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 246 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 246 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 247",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 247 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 247 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 248",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 248 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 248 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 249",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 249 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 249 bulunur."
+  },
+  {
+    "term": "Teknik Özellik 250",
+    "aliases": [],
+    "category": "Genel",
+    "definition": "Teknik Özellik 250 cihaz performansını artırmak için kullanılan bir özelliktir.",
+    "example": "Bu cihazda Teknik Özellik 250 bulunur."
+  }
+]
