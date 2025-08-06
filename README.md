@@ -259,7 +259,6 @@ FlashDevs takımı
 
 Proje hakkında sorularınız için:
 - Email: ibrahimsafa1903@gmail.com
-- GitHub Issues: [Proje Issues](https://github.com/yourusername/hiper-yerel-ecommerce/issues)
 
 ---
 
