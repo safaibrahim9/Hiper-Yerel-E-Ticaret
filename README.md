@@ -245,7 +245,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ## 👥 Geliştirici
 
 FlashDevs takımı
-- GitHub: [@yourusername](https://github.com/safaibrahim9)
+- GitHub: (https://github.com/safaibrahim9)
 - Email: ibrahimsafa1903@gmail.com
 
 ## 🙏 Teşekkürler
